@@ -22,5 +22,4 @@ const generator = (ammount=12) => {
             }, {}))
 }
 
-
 export default generator;

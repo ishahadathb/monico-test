@@ -9,7 +9,7 @@ const ProductCard = (props) => {
                 <h5 className="card-title">{props.name}</h5>
                 <p className="card-text"><span>Price:</span>{props.price}</p>
                 <p className={'card-text'}><span>Category:</span>{props.category}</p>
-                <a href="#" className="btn btn-primary">Go somewhere</a>
+                <a href="#" className="btn btn-primary">View Details</a>
             </div>
         </div>
     )
